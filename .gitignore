@@ -41,3 +41,15 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# echo "# db_boss" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/dibyajyotiranjan0/db_boss.git
+# git push -u origin main
+#**** existing repository****
+# git remote add origin https://github.com/dibyajyotiranjan0/db_boss.git
+# git branch -M main
+# git push -u origin main
